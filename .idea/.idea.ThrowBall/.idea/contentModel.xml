@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\SALTA\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\SALTA\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_ThrowBall.1978172768.00" t="ExcludeRecursive" />
+    <e p="C:\Users\SALTA\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
+    <e p="D:\Program Files\Unity\Projects File\ThrowBall" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_AurynSky" t="Include">
+          <e p="Gems Ultimate Pack" t="Include">
+            <e p="READ ME.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="AnimationScript.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CoinPicker.cs" t="Include" />
+          <e p="Coins.cs" t="Include" />
+          <e p="DestroyOffscreen.cs" t="Include" />
+          <e p="ExitDoor.cs" t="Include" />
+          <e p="FINIS_DOOR.cs" t="Include" />
+          <e p="ForceLineDrawer.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="GameObjectUtil.cs" t="Include" />
+          <e p="InputState.cs" t="Include" />
+          <e p="LevelManager.cs" t="Include" />
+          <e p="ManageUI.cs" t="Include" />
+          <e p="NextLevelManager.cs" t="Include" />
+          <e p="ObjectPool.cs" t="Include" />
+          <e p="RecycleGameObject.cs" t="Include" />
+          <e p="SmoothCamFallow.cs" t="Include" />
+          <e p="throwBall.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="ThrowBall.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
